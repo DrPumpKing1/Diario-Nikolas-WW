@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "33fa2eafb1cc9577",
+    "type": "split",
+    "children": [
+      {
+        "id": "33132af171055c8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d04b8c0acb4d7b78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nikolas Tablet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nikolas Tablet"
+            }
+          },
+          {
+            "id": "9e10989007e69f2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nikolas Tablet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nikolas Tablet"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "873aea52e852681a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "060ef82c4179f834",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4_Cultural Remains/Idliitzi masks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Idliitzi masks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "72ede6f7cab3680c",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd768ff16aee222c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e08c916ad371129f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ef1267fa33f2dd92",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4eba4d3addfbd777",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3a86066c79959987",
+    "type": "split",
+    "children": [
+      {
+        "id": "e359b14accf95eac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6f6178f69b5173d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "e135af896af53fef",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "49f132d1ba8b152f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1a9c13288a70a810",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9e10989007e69f2e",
+  "lastOpenFiles": [
+    "1_Blog/Blog.md",
+    "4_Cultural Remains/Cultural Remains.md",
+    "4_Cultural Remains/Idliitzi masks.md",
+    "4_Cultural Remains/Vythanu skeleton.md",
+    "Nikolas Tablet.md",
+    "Katryss Painting.md",
+    "3_Felygrith Technology/C'ibla.md",
+    "2_Vyrx/Vyrx.md",
+    "3_Felygrith Technology/Felygrith Technology.md",
+    "3_Felygrith Technology/G'hem.md",
+    "3_Felygrith Technology/D'oah.md",
+    "3_Felygrith Technology/Switch.md",
+    "3_Felygrith Technology/K'aerum.md",
+    "1_Blog/Walking down the ship.md",
+    "1_Blog/Nikolas and Vyrx first encounter.md",
+    "4_Cultural Remains",
+    "3_Felygrith Technology",
+    "2_Vyrx",
+    "1_Blog"
+  ]
+}
