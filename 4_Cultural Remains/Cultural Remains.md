@@ -8,7 +8,7 @@
 | N   | Item                        | Ubicación                                          |
 | --- | --------------------------- | -------------------------------------------------- |
 | 2   | [[Broken community statue]] | Hall of statues                                    |
-| 3   | [[Ka´hoshita painting]]     | Hall of the central statue of the divine liberator |
+| 3   | [[Ka´hoshita statue]]       | Hall of the central statue of the divine liberator |
 | 4   | [[Sun charm]]               | Initiation room                                    |
 | 5   | [[Zelkor tree seeds]]       | Garden of offerings                                |
 ### Spiritual knowledge center (Nivel 2)
