@@ -6,4 +6,4 @@ We went deep into a hall full statues. The roof was almost two times higher the 
 
 The statue that I give the most attention was a broken one, but it clearly seems that it wasn't a natural o accidental destruction, but an intended one. A statue that seems to have symbolized the union of 4 races around a divine figure, but broken is just a remainder of how nothing lasts forever, even if it seems holy or divine.
 
-Vyrx, my alien feline companion, was unusually quiet around the statue, almost as if she was trying to hide the shame of her belief, but maybe it was just me. 
+Vyrx, the cat that belongs to one of those cultures, was unusually quiet around the statue, almost as if she was trying to hide the shame of her belief, but maybe it was just me. 
