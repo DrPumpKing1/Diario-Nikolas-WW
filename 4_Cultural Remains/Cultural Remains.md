@@ -1,8 +1,9 @@
 #ale 
 
-| N   | Item                 | Objeto                           |
-| --- | -------------------- | -------------------------------- |
+| N   | Item                    | Objeto                           |
+| --- | ----------------------- | -------------------------------- |
 | 1   | [[Ka´hoshita painting]] | Entrance of the divine liberator |
+|     |                         |                                  |
 ### Ka'hoshita Sanctuary (Nivel 1)
 
 | N   | Item                        | Ubicación                                          |
