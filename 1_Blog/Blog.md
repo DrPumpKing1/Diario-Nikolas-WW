@@ -9,5 +9,5 @@ Includes ingame narrative events that happen to the characters and interactions 
 | 4   | [[A quirky portal]]                  |
 | 5   | [[Dark knowledge awaits]]            |
 | 6   | [[There's something missing here]]   |
-| 7   | [[A big blinky peashooter]]          |
+| 7   | [[A big blinky peashooter problem]]  |
 | 8   | [[A K'aerum colossus]]               |
