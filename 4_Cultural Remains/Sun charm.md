@@ -1,6 +1,6 @@
 #ale 
 
-**
+---
 
 I entered an excessively large room, much larger than other areas of this place, the ceiling is very high, and the width is not even worth mentioning. This place looks like some kind of sacred initiation room or something like that, as such a size can only mean that this is where the people who used to wander around this temple used to gather.
 
